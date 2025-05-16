@@ -10,7 +10,7 @@
  Eager to contribute to a collaborative engineering team by delivering reliable
  and high-quality testing solutions.
  
-  SKILLS
+ SKILLS
   
  Data Analysis: Python, SQL
  
