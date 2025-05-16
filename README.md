@@ -1,4 +1,5 @@
-## PRATHEEBA T  Junior QA Tester | Manual Testing | Selenium | JIRA
+## PRATHEEBA T  
+### Junior QA Tester | Manual Testing | Selenium | JIRA
 
  Aspiring Junior Test Engineer with hands-on experience in data analysis,
  automation using Python, and fundamental knowledge of software testing
@@ -10,7 +11,7 @@
  Eager to contribute to a collaborative engineering team by delivering reliable
  and high-quality testing solutions.
  
- SKILLS
+ ## SKILLS
   
  Data Analysis: Python, SQL
  
